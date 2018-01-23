@@ -7,3 +7,6 @@ This hopefully won't somehow delete itself so that I don't have to make a new on
 Controls:
 2nd to reveal a cell
 alpha to mark a cell with a flag (represented by multiplication symbol)
+
+
+The text files allow for easy observation of the code with out the ti connect editor.
